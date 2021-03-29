@@ -9,9 +9,11 @@ We took our raw data (the isotopes descriptions) from the [Nuclear Energy Agency
 
 The binding energy can be calculated under the Bond.py code. If one wishes to calculate the plot for the valence band, the function is under the name "gota_liquida". 
 
+## Maind Script ModNucl.py
+
 General information on specific Isotopes can be calculated in the main script of this repository "ModNucl.py". There is also an option for writing it directly as a LateX table, if necessary.
 
-Here are some plots, enjoy:
+## Here are some plots, enjoy:
 
 Binding Energy with deleted parameters: 
 
